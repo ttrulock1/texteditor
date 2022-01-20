@@ -38,7 +38,7 @@ npm start
 
 ## Contributors
 
-![contribution](./RMimages/contributors.png)
+Todd Trulock (with help from my tutors, Ian and Jack)
 
 ## Contacts
 For any questions, Please reach me via [email](mailto:toddstrulock@gmail.com).
