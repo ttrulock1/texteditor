@@ -38,6 +38,7 @@ npm start
 
 ## Contributors
 
+Todd Trulock
 ![contribution](./RMimages/contributors.png)
 
 ## Contacts
